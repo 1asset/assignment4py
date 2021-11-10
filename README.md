@@ -40,7 +40,12 @@ Then you will see the page with the input field and one button, here you need to
 
 ![3](https://user-images.githubusercontent.com/82859085/141158847-073a2866-aa4d-49f7-9e26-6eaa075fdaab.PNG)
 
+#### Also, here you can see how this data is stored in the database.
 
+
+![4](https://user-images.githubusercontent.com/82859085/141159166-f7105955-7309-4790-816c-f1f89d9ede23.PNG)
+
+![5](https://user-images.githubusercontent.com/82859085/141159315-e02333b7-bc2c-48e7-ba1c-2815df71337e.PNG)
 
 
 
