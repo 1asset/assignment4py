@@ -7,6 +7,7 @@ flask (https://flask.palletsprojects.com/en/2.0.x/)
 flask_sqlalchemy (https://flask-sqlalchemy.palletsprojects.com/en/2.x/)
 requests  (https://pypi.org/project/requests/)
 beautifulSoup (https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+https://www.digitalocean.com/community/tutorials/processing-incoming-request-data-in-flask
 ```
 
 
