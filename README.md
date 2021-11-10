@@ -35,6 +35,7 @@ At the beggining you will have an empty page, except the input field and the che
 ![1](https://user-images.githubusercontent.com/82859085/141158434-d9e2920f-cc20-4ec9-9b7b-e022bbcef0b7.PNG)
 
 ![2](https://user-images.githubusercontent.com/82859085/141158683-93e8dedd-91a8-4661-87b5-e1612212dd79.PNG)
+
 After entering the coin and pressing the check button, you will get many articles as an output.
 
 ![3](https://user-images.githubusercontent.com/82859085/141158847-073a2866-aa4d-49f7-9e26-6eaa075fdaab.PNG)
