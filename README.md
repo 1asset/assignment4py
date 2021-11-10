@@ -9,6 +9,12 @@ requests  (https://pypi.org/project/requests/)
 beautifulSoup (https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 https://www.digitalocean.com/community/tutorials/processing-incoming-request-data-in-flask
 ```
+# Usage
+At first we need to create a database in DBMS application(SQL server,Pgadmin) or other database management system. After that, you need to successfully connect your server with the database. We called our database "assignment4" as it is shown in the code. Also, it's important to know the login and password of your database, ours is postgres and 5432.
+```
+app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://postgres:5432@localhost/flask'
+```
+
 
 
 
