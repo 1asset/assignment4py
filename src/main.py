@@ -51,7 +51,7 @@ def coininfo():
         if (db_articles):
             return render_template('web.html', articles = db_articles)
 
-        coininfo = CoinInfo()
+        coininfo = Paragraphs()
         articles = coininfo.get_paragraphs(coin_name)
 
         for article in articles:
